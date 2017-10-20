@@ -1,4 +1,4 @@
-package com.company.Лекция1.Stecs;
+package com.company.lec1.stecs;
 
 public class Stecs {
     private Node first = null;
